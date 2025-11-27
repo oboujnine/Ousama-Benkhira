@@ -54,16 +54,16 @@ Recurso educativo centrado en la **huella digital** y los riesgos en línea para
 ## 📊 Mis estadísticas (generadas automáticamente)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO>&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<oboujnine>&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<TU_USUARIO>&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<oboujnine>&theme=dark" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-📧 ousamabenkhira@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/<TU_LINKEDIN_ID>/)  
+📧 oboujnine@uoc.edu · 🔗 [LinkedIn](https://www.linkedin.com/in/ousama-benkhira-oujnine-3161b0219/)  
 Si quieres colaborar o necesitas ayuda con un proyecto, escríbeme :)
 
 ---
