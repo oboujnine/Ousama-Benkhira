@@ -11,7 +11,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/email-ousamabenkhira%40example.com-0066ff?style=flat&logo=Gmail" alt="email badge"/>
+  <img src="https://img.shields.io/badge/email-oboujnine%40uoc.edu-0066ff?style=flat&logo=Gmail" alt="email badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="linkedin badge"/>
   <img src="https://img.shields.io/badge/Status-Learning-yellow?style=flat&logo=Google" alt="learning badge"/>
   <img src="https://img.shields.io/badge/Location-Barcelona%2C%20ES-13B0FF?style=flat&logo=googlemaps" alt="location badge"/>
