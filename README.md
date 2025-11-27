@@ -1,7 +1,7 @@
 # Ousama-Benkhira
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<TU_USUARIO>/<REPO_ASSETS>/main/banner.png" alt="Banner Ousama" width="960"/>
+  <img src="Thumbnail.png" width="960"/>
 </p>
 
 # 👋 ¡Hola! Soy **Ousama Benkhira**
